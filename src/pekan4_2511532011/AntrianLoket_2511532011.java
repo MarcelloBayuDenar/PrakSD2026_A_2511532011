@@ -85,7 +85,7 @@ public class AntrianLoket_2511532011 {
         int pilihan_2011 = 0;
         
         do {
-            System.out.println("\n=== PROGRAM ANTRIAN LOKET");
+            System.out.println("\n=== PROGRAM ANTRIAN LOKET ===");
             System.out.println("1. Tambah Antrian");
             System.out.println("2. Hapus Antrian");
             System.out.println("3. Tampilkan Antrian");
